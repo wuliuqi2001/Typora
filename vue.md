@@ -53,7 +53,7 @@
 ### 1.v-html
 
 * 功能：解析标签
-* ![image-20230926191723464](D:\Workspace\Typora\image\image-20230926191723464.png)
+* ![image-20230926191723464](image/image-20230926191723464.png)
 
 ### 2. v-show
 
