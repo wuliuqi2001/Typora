@@ -31,7 +31,7 @@
    * el指定挂载点
    * data提供数据
 
-![image-20230925105016586](D:\Workspace\Typora\image\image-20230925105016586.png)
+![image-20230925105016586](image\image-20230925105016586.png)
 
 ### 2. 插值表达式
 
